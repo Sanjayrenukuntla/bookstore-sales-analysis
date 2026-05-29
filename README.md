@@ -44,7 +44,7 @@ The project simulates a bookstore environment with:
 
 ## Dataset Preview
 
-![Dataset Preview](assets/dataset_preview.png)
+![Dataset Preview](images/dataset_preview.png)
 
 ---
 
@@ -65,7 +65,7 @@ The following KPIs were calculated:
 
 Understanding how revenue changes across the year.
 
-![Monthly Sales Trend](assets/monthly_sales_trend.png)
+![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 ### Key Findings
 
@@ -79,7 +79,7 @@ Understanding how revenue changes across the year.
 
 Analyzing which categories contribute most to overall revenue.
 
-![Revenue by Category](assets/revenue_by_category.png)
+![Revenue by Category](images/revenue_by_category.png)
 
 ### Key Findings
 
@@ -93,7 +93,7 @@ Analyzing which categories contribute most to overall revenue.
 
 Evaluating customer spending patterns and identifying high-value customers.
 
-![Customer CLV](assets/customer_clv_distribution.png)
+![Customer CLV](images/customer_clv_distribution.png)
 
 ### Key Findings
 
@@ -107,7 +107,7 @@ Evaluating customer spending patterns and identifying high-value customers.
 
 Identifying books that contribute the highest profit per unit sold.
 
-![Top Margin Books](assets/top_margin_books.png)
+![Top Margin Books](images/top_margin_books.png)
 
 ### Key Findings
 
@@ -121,7 +121,7 @@ Identifying books that contribute the highest profit per unit sold.
 
 Tracking month-over-month revenue growth.
 
-![Monthly Growth Analysis](assets/monthly_growth_analysis.png)
+![Monthly Growth Analysis](images/monthly_growth_analysis.png)
 
 ### Key Findings
 
